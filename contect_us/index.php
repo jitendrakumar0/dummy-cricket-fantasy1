@@ -27,19 +27,19 @@
                     <div class="col-12 border-0 rounded p-3 card bg-light shadow">
                         <div class="col-12 row mx-0 py-4">
                             <div class="col-lg-4 col-12 mb-lg-0 mb-4">
-                                <a href="mailto: crcrickety@gmail.com" class="card cr_btn contect_card h-100 shadow w-100 py-4 border-0 text-dark">
+                                <a href="mailto: shotbull@gmail.com" class="card cr_btn contect_card h-100 shadow w-100 py-4 border-0 text-dark">
                                     <div class="card-body">
                                         <div class="text-center mb-2"><span><i class="imgs img-envelope-open fs-40"></i></span></div>
                                         <h6 class="card-subtitle mb-2 text-center fs-md-18 fs-16"><span>Customer Support Email</span></h6>
-                                        <div class="text-center fs-md-16 fs-14"><span>crcrickety@gmail.com</span></div>
+                                        <div class="text-center fs-md-16 fs-14"><span>shotbull@gmail.com</span></div>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-lg-4 col-12 mb-lg-0 mb-4">
-                                <a href="https://wa.me/919587979748" class="card cr_btn contect_card h-100 shadow w-100 py-4 border-0 text-dark">
+                                <a href="https://wa.me/1800 1200 1500" class="card cr_btn contect_card h-100 shadow w-100 py-4 border-0 text-dark">
                                     <div class="card-body">
                                         <div class="text-center mb-2"><span><i class="imgb img-whatsapp-square fs-40"></i></span></div>
-                                        <h6 class="card-subtitle mb-2 text-center fs-md-18 fs-16"><span>+91 9587979748</span></h6>
+                                        <h6 class="card-subtitle mb-2 text-center fs-md-18 fs-16"><span>+91 1800 1200 1500</span></h6>
                                         <div class="text-center fs-md-16 fs-14"><span>10:00 am to 7:00 pm ( Mon - Fri )</span></div>
                                     </div>
                                 </a>

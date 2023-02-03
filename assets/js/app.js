@@ -84,4 +84,3 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 })
 
 
-AOS.init();

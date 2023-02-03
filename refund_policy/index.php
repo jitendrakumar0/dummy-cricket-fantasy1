@@ -25,7 +25,7 @@
             <div class="">
                 <p>We do not have a refund policy since we organize events. We will refund if the event is closed for any reason. If you have any information about the refund policy, you can mail us or you can mail us through our app</p><br>
                 <br>
-                <a href="mailto:crcrickety@gmail.com" class="text-theme1"><strong>Our email id- crcrickety@gmail.com</strong></a>
+                <a href="mailto:shotbull@gmail.com" class="text-theme1"><strong>Our email id- shotbull@gmail.com</strong></a>
             </div>
         </div>
     </div>

@@ -6,7 +6,7 @@
                     <div class="footer_box">
                         <h2 class="box_head inner_heading text-dark fw-bold mb-3 fs-20">Support</h2>
                         <ul class="links_footer list-unstyled p-0">
-                            <li><a href="mailto: crcrickety@gmail.com" class="fs-md-15 fs-14 mb-1 d-block"><strong>Email: </strong>crcrickety@gmail.com</a></li>
+                            <li><a href="mailto: shotbull@gmail.com" class="fs-md-15 fs-14 mb-1 d-block"><strong>Email: </strong>shotbull@gmail.com</a></li>
                             <li><a href="javascript:;" class="fs-md-15 fs-14 mb-1 d-block"><strong>Address: </strong> 7066 El Cajon Blvd, San Diego, CA 92115</a></li>
                         </ul>
                     </div>
@@ -53,7 +53,7 @@
         <div class="container copyright-inner ">
             <div class="row py-3">
                 <div class="col-12 fs-lg-15 fs-md-14 fs-14 text-center">
-                    © <strong><span> <b>CR Cricket</b></span></strong>. All Rights Reserved | <a href="https://www.imgglobalinfotech.com/" target="_blank" class="credits m-0">
+                    © <strong><span> <b>Shotbull</b></span></strong>. All Rights Reserved | <a href="https://www.imgglobalinfotech.com/" target="_blank" class="credits m-0">
                         <span><b class="text-dark">Design &amp; Developed By</b></span> <img data-bs-toggle="tooltip" data-bs-placement="top" title="" src="<?php echo f_path ?>assets/img/logos/logo.png" class="h-md-30px h-25px" alt="" data-bs-original-title="IMG Global Infotech" aria-label="IMG Global Infotech">
                     </a>
                 </div>

@@ -11,7 +11,7 @@
                     <div class="col-lg-6">
                         <div class="inner">
                             <h1 class="hero_title text-theme2 mb-3 fw-bold fs-xl-60 fs-md-50 fs-sm-40 fs-30">The New Way to Invest in Sports</h1>
-                            <p class="section_info mb-4 text-dark fw-normal fs-18"><span class="fw-bold">CR Cricket</span> management platform for cricket operating to engage cricket fans to have more fun out of the Game of Cricket.</p>
+                            <p class="section_info mb-4 text-dark fw-normal fs-18"><span class="fw-bold">Shotbull</span> management platform for cricket operating to engage cricket fans to have more fun out of the Game of Cricket.</p>
                             <div class="text-sm-start text-center"><a href="javascript:;" class="cr_btn"><i class="imgb img-android me-2"></i><span>Download App</span></a></div>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                             <div class="content_side">
                                 <div class="user_name fw-bold fs-22"><span class="inner_span">Jitendra</span> Kumar</div>
                                 <div class="user_add fs-18 fw-bold">Bangalore</div>
-                                <p class="fs-lg-16 fs-14">“CR Cricket Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
+                                <p class="fs-lg-16 fs-14">“Shotbull Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
                             </div>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                             <div class="content_side">
                                 <div class="user_name fw-bold fs-22"><span class="inner_span">Ajay</span> Sharma</div>
                                 <div class="user_add fs-18 fw-bold">Bangalore</div>
-                                <p class="fs-lg-16 fs-14">“CR Cricket Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
+                                <p class="fs-lg-16 fs-14">“Shotbull Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
                             </div>
                         </div>
                     </div>
@@ -165,7 +165,7 @@
                             <div class="content_side">
                                 <div class="user_name fw-bold fs-22"><span class="inner_span">Kuldeep</span> Chouhan</div>
                                 <div class="user_add fs-18 fw-bold">Bangalore</div>
-                                <p class="fs-lg-16 fs-14">“CR Cricket Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
+                                <p class="fs-lg-16 fs-14">“Shotbull Is Unique, It Is Very Different From Other Fantasy Cricket Apps Because It Gives Me An Option To Play Different Fantasy Cricket Formats. I Am Specially Fond Of Playing It Against Not Only Cricket Aficionados But Also With My Childhood Buddies.”</p>
                             </div>
                         </div>
                     </div>
@@ -207,7 +207,7 @@
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionTwo">
                                     <div class="accordion-body">
-                                        <p class="para fs-sm-16 fs-14">If there is no upcoming match which we cover, then there will be no match and contest in CR Cricket.</p>
+                                        <p class="para fs-sm-16 fs-14">If there is no upcoming match which we cover, then there will be no match and contest in Shotbull.</p>
                                     </div>
                                 </div>
                             </div>
