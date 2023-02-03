@@ -26,7 +26,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
-<link rel="icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/favicon-white.png" />
+<link rel="icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/shotbullLogo.png" />
 
 
 
@@ -42,17 +42,17 @@
   <!-- Twitter Meta -->
   <meta name="twitter:title" content="Title here">
   <meta name="twitter:description" content="Discrption here">
-  <meta name="twitter:image" content="<?php echo f_path ?>/assets/img/logos/favicon-original.png">
+  <meta name="twitter:image" content="<?php echo f_path ?>/assets/img/logos/shotbullLogo.png">
 
   <!-- Facebook Meta -->
   <meta property="og:url" content="<?php echo f_path ?>">
   <meta property="og:title" content="Title here">
   <meta property="og:description" content="Discrption here">
-  <meta property="og:image" content="<?php echo f_path ?>/assets/img/logos/favicon-original.png">
-  <meta property="og:image:secure_url" content="<?php echo f_path ?>/assets/img/logos/favicon-original.png">
+  <meta property="og:image" content="<?php echo f_path ?>/assets/img/logos/shotbullLogo.png">
+  <meta property="og:image:secure_url" content="<?php echo f_path ?>/assets/img/logos/shotbullLogo.png">
 
-  <link rel="shortcut icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/favicon-white.png" />
-  <link rel="icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/favicon-white.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/shotbullLogo.png" />
+  <link rel="icon" type="image/x-icon" href="<?php echo f_path ?>assets/img/logos/shotbullLogo.png" />
   <meta name="classification" content="Title here" />
   <link rel="canonical" href="<?php echo f_path ?>" />
 
