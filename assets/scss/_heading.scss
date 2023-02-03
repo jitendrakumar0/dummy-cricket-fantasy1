@@ -1,0 +1,45 @@
+.heading {
+    & .inner_contant {
+        text-shadow: 0 2px 3px rgba($black, 0.6);
+        position: relative; 
+        &::after{
+            content: "";
+            position: absolute;
+            width: 80px;
+            height: 2px;
+            margin-bottom: 20px;
+            background: linear-gradient(90deg, $theme1 0%, $theme2 100%);
+            bottom: -30px;
+            left: 0;
+        }
+    }
+}
+.inner_span {
+    text-shadow: 0 2px 3px rgba($theme1, 0.6);
+    background: linear-gradient(to right, $theme1, $theme2);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.inner_heading {
+    position: relative;  
+    text-shadow: 0 2px 3px rgba($black, 0.6);
+    &::after{
+        content: "";
+        position: absolute;
+        width: 80px;
+        height: 2px;
+        background: linear-gradient(90deg, #000 0%, #ccc 100%);
+        bottom: 0px;
+        left: 0;
+    }
+}
+
+.box_head {
+    &::after{
+        margin-bottom: 5px !important;
+        width: 60px !important;
+        bottom: -10px !important;
+    }
+}
