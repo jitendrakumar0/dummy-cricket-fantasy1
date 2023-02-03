@@ -8,7 +8,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-12">
-                        <div class="heading text-white fw-bold fs-lg-50 fs-md-40 fs-sm-30 fs-25 mb-3 lh-sm text-center"><span class="inner_heading">Terms & Conditions</span></div>
+                        <div class="heading text-center mb-3 d-block"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-white inner_contant inner_heading">Terms & Conditions</span></div>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb d-flex  justify-content-center">
                                 <li class="breadcrumb-item"><a href="<?php echo f_path ?>" class="text-white fw-bold">Home</a></li>

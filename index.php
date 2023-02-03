@@ -8,14 +8,14 @@
         <div class="container-fluid inner_section mt-5 py-lg-5">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 order-lg-1 order-2">
                         <div class="inner">
                             <h1 class="hero_title text-theme2 mb-3 fw-bold fs-xl-60 fs-md-50 fs-sm-40 fs-30">The New Way to Invest in Sports</h1>
-                            <p class="section_info mb-4 text-dark fw-normal fs-18"><span class="fw-bold">Shotbull</span> management platform for cricket operating to engage cricket fans to have more fun out of the Game of Cricket.</p>
+                            <p class="section_info mb-4 text-dark fw-normal fs-md-18 fs-16"><span class="fw-bold">Shotbull</span> management platform for cricket operating to engage cricket fans to have more fun out of the Game of Cricket.</p>
                             <div class="text-sm-start text-center"><a href="javascript:;" class="cr_btn"><i class="imgb img-android me-2"></i><span>Download App</span></a></div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 order-lg-2 order-1 mb-lg-0 mb-4">
                         <div class="inner_img d-flex justify-content-lg-end justify-content-center"><img src="<?php echo f_path ?>assets/img/index/hero_img.svg" alt="" class="w-90"></div>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
         <div class="container-fluid py5">
             <div class="container">
                 <div class="row inner_section">
-                    <div class="col-12 heading text-center mb-5"><span class="fs-xl-50 fs-sm-40 fs-30 fs-25 fw-bold text-dark inner_contant">About Us</span></div>
+                    <div class="col-12 heading text-center mb-5"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">About Us</span></div>
                     <div class="col-lg-4 col-md-6 mb-lg-0 mb-4">
                         <div class="card p-0 border-0 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
@@ -58,7 +58,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-lg-0 mb-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="card p-0 border-0 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
                                 <a href="<?php echo f_path ?>about-us/about-us.php">
@@ -83,17 +83,17 @@
         <div class="container-fluid py-5 inner_section">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-12 heading text-center mb-5 d-lg-none d-block"><span class="fs-xl-50 fs-sm-40 fs-30 fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
+                    <div class="col-12 heading text-center mb-5 d-lg-none d-block"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
                     <div class="col-lg-6 left_side mb-lg-0 mb-4">
                         <div class="hotoplay_img d-flex justify-content-lg-start justify-content-center"><img src="<?php echo f_path ?>assets/img/index/howtoplay.svg" alt="" class="w-lg-80 w-90"></div>
                     </div>
                     <div class="col-lg-6 right_side row mx-0">
-                        <div class="col-12 heading text-center mb-5 d-lg-block d-none"><span class="fs-xl-50 fs-sm-40 fs-30 fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
+                        <div class="col-12 heading text-center mb-5 d-lg-block d-none"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
                         <div class="col-sm-6 mb-4">
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-cricket fs-30 pe-1 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-4 mb-2">Select a Match</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Select a Match</div>
                                     <div class="fs-16 text-dark match_contant">Select any match which you want to Play from Upcoming Sections.</div>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-gift fs-30 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-4 mb-2">Choose a Contest</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Choose a Contest</div>
                                     <div class="fs-16 text-dark match_contant">Create your Own Wining Team by use your excellent skills of sports.</div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-users fs-30 pe-1 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-4 mb-2">Create Your Dream Team</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Create Your Dream Team</div>
                                     <div class="fs-16 text-dark match_contant">Join any of the given contest which you want.</div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-trophy fs-30  text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-4 mb-2">Win Real Cash</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Win Real Cash</div>
                                     <div class="fs-16 text-dark match_contant">Get your Winning Amount Instantly in your PAYTM or Bank Accounts.</div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
         <div class="container-fluid pb-5">
             <div class="container inner_section">
                 <div class="row">
-                    <div class="col-12 heading gap-3 my-5 d-flex align-items-center justify-content-center"><span class="w-60px"><img src="<?php echo f_path ?>assets/img/index/general.png" alt="" class="w-100"></span><span class="fs-xl-50 fs-sm-40 fs-30 fs-25 fw-bold text-dark inner_contant">Frequently asked questions</span></div>
+                    <div class="col-12 heading gap-3 mb-5 d-flex align-items-center justify-content-center"><span class="h-50px"><img src="<?php echo f_path ?>assets/img/index/general.svg" alt="" class="h-100"></span><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">Frequently asked questions</span></div>
                     <!-- <div class="col-auto">
                         <div class="faq_img w-100px"><img src="<?php echo f_path ?>assets/img/index/general.png" alt="" class="w-100"></div>
                     </div> -->
@@ -190,7 +190,7 @@
                             <div class="accordion-item border-0 mb-3">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button bg-white shadow-none border-0 gap-3 fw-bold fs-md-20 fs-sm-18 fs-16 d-flex align-items-center collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.png" alt="Icon">I didn't receive any OTP/Code, what should I do?
+                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.svg" alt="Icon">I didn't receive any OTP/Code, what should I do?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionTwo">
@@ -202,7 +202,7 @@
                             <div class="accordion-item border-0 mb-3">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button bg-white shadow-none border-0 gap-3 fw-bold fs-md-20 fs-sm-18 fs-16 d-flex align-items-center collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.png" alt="Icon"> Why I am not seeing any match/contest?
+                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.svg" alt="Icon"> Why I am not seeing any match/contest?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionTwo">
@@ -214,7 +214,7 @@
                             <div class="accordion-item border-0 mb-3">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button bg-white shadow-none border-0 gap-3 fw-bold fs-md-20 fs-sm-18 fs-16 collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.png" alt="Icon"> If there is no upcoming match which we cover.
+                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.svg" alt="Icon"> If there is no upcoming match which we cover.
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionTwo">
@@ -226,7 +226,7 @@
                             <div class="accordion-item border-0 mb-3">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button bg-white shadow-none border-0 gap-3 fw-bold fs-md-20 fs-sm-18 fs-16 collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.png" alt="Icon"> Can I join same contest with multiple team?
+                                        <img src="<?php echo f_path ?>assets/img/index/ac-icon.svg" alt="Icon"> Can I join same contest with multiple team?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionTwo">

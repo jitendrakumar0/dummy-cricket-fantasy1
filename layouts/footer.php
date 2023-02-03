@@ -1,4 +1,4 @@
-<footer class="footer_section pt-5 bg-theme2 position-relative">
+<footer class="footer_section pt-5 position-relative">
     <div class="container-fluid inner_section py-md-5">
         <div class="container">
             <div class="row">

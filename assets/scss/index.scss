@@ -6,7 +6,7 @@
 
 // Index
 .hero-section {
-  background-image: url(../../img/index/hero-bg.png);
+  background-image: url(../../img/index/hero-bg.svg);
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center top;
@@ -30,7 +30,7 @@
 
 
 .how_play_section {
-  background-image: url(../../img/index/4907157.jpg);
+  background-image: url(../../img/index/bg_img.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -59,13 +59,13 @@
           }
         }
         &:hover {
-          border-color: #fff;
-          box-shadow: 0px 0px 10px rgb(0 0 0 / 15%);
+          border-color: $white;
+          box-shadow: 0px 0px 10px rgb($black, 0.15);
           & .match_heading {
             color: $theme1 !important;
           }
           & .icon {
-            box-shadow: 0px 0px 10px rgb(0 0 0 / 15%);
+            box-shadow: 0px 0px 10px rgb($black, 0.15);
             & i {
               color:  $theme2 !important;
             }
@@ -74,15 +74,6 @@
       }
     }
   }
-  // &::after{
-  //   content: url(../../img/index/contact-left.png);
-  //   bottom: -50px;
-  //   right: 0;
-  //   transform: scaleX(-1);
-  //   position: absolute;
-  //   width: 103px;
-  //   z-index: -1;
-  // }
 }
 
 
@@ -113,7 +104,7 @@
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
-          background-color: #fff;
+          background-color: $white;
           position: absolute;
           right: 25px;
           top: 0;
@@ -159,11 +150,11 @@
           width: 8px;
           height: 8px;
           border-radius: 10px;
-          border: 1px solid #fff;
+          border: 1px solid $white;
           transition: all .4s;
           &.active{
             width: 25px;
-            background-color: #ffffff !important;
+            background-color: $white !important;
             border: none;
           }
         }
@@ -179,9 +170,10 @@
       & .accordion {
         & .accordion-item {
           border-radius: 10px;
-          box-shadow: 0px 0px 10px #f0f0f9;
+          // box-shadow: 0px 0px 10px #f0f0f9;
+          box-shadow: 0px 0px 10px rgb($black, 0.10);
           & .accordion-button {
-            box-shadow: 0px 0px 10px #f0f0f9 !important;
+            // box-shadow: 0px 0px 10px rgb($black, 0.03) !important;
             outline: none;
             line-height: 1.455;
             border-radius: 10px;
@@ -212,7 +204,7 @@
           left: -14px;
           width: 52px;
           height: 21px;
-          background-image: url(../../img/index/arrow_left.png);
+          background-image: url(../../img/index/arrow_left.svg);
           background-repeat: no-repeat;
           background-size: contain;
           background-position: center;
@@ -224,7 +216,7 @@
           right: -10px;
           width: 52px;
           height: 21px;
-          background-image: url(../../img/index/arrow_right.png);
+          background-image: url(../../img/index/arrow_right.svg);
           background-repeat: no-repeat;
           background-size: contain;
           background-position: center;
