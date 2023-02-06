@@ -25,19 +25,20 @@
         <div class="container-fluid py-5">
             <div class="container">
                 <div class="row inner_section">
+                    <div class="col-12 pb-4"><span class="fw-bold">Shotbull</span> brings altogether a new game/concept where in you can make predictions on a cricket match in four easy steps and put it on a Cricket Table and win real cash/money.</div>
                     <div class="col-12 row mx-0 mb-4 px-0">
                         <div class="card p-0 border-0 col-md-6 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
                                 <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                     <div class="content d-flex align-items-center justify-content-center rounded-circle p-3">
-                                        <img src="<?php echo f_path ?>assets/img/index/mission.svg" alt="Our Mission" class="w-100 h-100">
+                                        <img src="<?php echo f_path ?>assets/img/index/mission.svg" alt="Batters/Runs" class="w-100 h-100">
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="fw-bold fs-20 text-dark my-3">Our Mission :</div>
-                            <div class="fs-md-16 fs-14">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quasi eos beatae. At velit, quasi corrupti amet maiores dolorum commodi mollitia voluptatum. Consequuntur incidunt ea quo veniam aliquid, quam facere deleniti accusantium, reprehenderit, quibusdam dignissimos? Eum, assumenda odio? Velit, necessitatibus similique officia recusandae aspernatur obcaecati. Reiciendis nam odio quia voluptatum!</div>
+                            <div class="fw-bold fs-20 text-dark my-3">Batters/Runs :-</div>
+                            <div class="fs-md-16 fs-14">Predict the run scored by a Batsman by chosing the right color.</div>
                         </div>
                     </div>
                     <div class="col-12 row mx-0 mb-4 px-0 ">
@@ -45,14 +46,14 @@
                             <div class="card-body p-0">
                                 <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                     <div class="content d-flex align-items-center justify-content-center rounded-circle p-3">
-                                        <img src="<?php echo f_path ?>assets/img/index/plan.svg" alt="Our Plan" class="w-100 h-100">
+                                        <img src="<?php echo f_path ?>assets/img/index/plan.svg" alt="Over/Runs" class="w-100 h-100">
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 order-md-1 order-2">
-                            <div class="fw-bold fs-20 text-dark my-3">Our Plan :</div>
-                            <div class="fs-md-16 fs-14">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quasi eos beatae. At velit, quasi corrupti amet maiores dolorum commodi mollitia voluptatum. Consequuntur incidunt ea quo veniam aliquid, quam facere deleniti accusantium, reprehenderit, quibusdam dignissimos? Eum, assumenda odio? Velit, necessitatibus similique officia recusandae aspernatur obcaecati. Reiciendis nam odio quia voluptatum!</div>
+                            <div class="fw-bold fs-20 text-dark my-3">Over/Runs : -</div>
+                            <div class="fs-md-16 fs-14">Predict the runs scored by a Team in the No of Over mentioned by chosing the right color.</div>
                         </div>
                     </div>
                     <div class="col-12 row mx-0 mb-4 px-0">
@@ -60,16 +61,35 @@
                             <div class="card-body p-0">
                                 <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                     <div class="content d-flex align-items-center justify-content-center rounded-circle">
-                                        <img src="<?php echo f_path ?>assets/img/index/vision.svg" alt="Our Vision" class="w-100 h-100">
+                                        <img src="<?php echo f_path ?>assets/img/index/vision.svg" alt="Top Wicket Taker" class="w-100 h-100">
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="fw-bold fs-20 text-dark my-3">Our Vision :</div>
-                            <div class="fs-md-16 fs-14">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quasi eos beatae. At velit, quasi corrupti amet maiores dolorum commodi mollitia voluptatum. Consequuntur incidunt ea quo veniam aliquid, quam facere deleniti accusantium, reprehenderit, quibusdam dignissimos? Eum, assumenda odio? Velit, necessitatibus similique officia recusandae aspernatur obcaecati. Reiciendis nam odio quia voluptatum!</div>
+                            <div class="fw-bold fs-20 text-dark my-3">Top Wicket Taker :-</div>
+                            <div class="fs-md-16 fs-14">Select the top wicket taker of each team , every bowler shall win you in different points.</div>
                         </div>
                     </div>
+                    <div class="col-12 row mx-0 mb-4 px-0 ">
+                        <div class="card p-0 border-0 col-md-6 order-md-2 order-1 d-flex align-items-center justify-content-center">
+                            <div class="card-body p-0">
+                                <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
+                                    <div class="content d-flex align-items-center justify-content-center rounded-circle p-3 overflow-hidden">
+                                        <img src="<?php echo f_path ?>assets/img/index/man_of_the_match.svg" alt="Man of the Match" class="w-100 h-100">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 order-md-1 order-2">
+                            <div class="fw-bold fs-20 text-dark my-3">Man of the Match :-</div>
+                            <div class="fs-md-16 fs-14">Select 2 Players from each team and predict the correct player to become the man of the match . Every player shall win you in different points.</div>
+                        </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                    Founded in 2023 Shotbull is one of its kind Cricket Fantasy App which shall enhance the gaming sector altogether due to its unique gameplay, extremely easy to understand and user friendly interface.
+                    </div>
+                    <div class="col-12">Shotbull game is owned and operated by <span class="fw-bolder text-black">Shotbull Technology Pvt Ltd.</span></div>
                 </div>
             </div>
         </div>

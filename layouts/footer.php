@@ -28,6 +28,7 @@
                             <li><a href="<?php echo f_path ?>fairplay/index.php" class="fs-md-15 fs-14 mb-1 d-block"><i class="me-1 imgr img-angle-double-right"></i>Fairplay</a></li>
                             <li><a href="<?php echo f_path ?>privacypolicy/index.php" class="fs-md-15 fs-14 mb-1 d-block"><i class="me-1 imgr img-angle-double-right"></i>Privacy Policy</a></li>
                             <li><a href="<?php echo f_path ?>refund_policy/index.php" class="fs-md-15 fs-14 mb-1 d-block"><i class="me-1 imgr img-angle-double-right"></i>Refund Policy</a></li>
+                            <li><a href="<?php echo f_path ?>legality/index.php" class="fs-md-15 fs-14 mb-1 d-block"><i class="me-1 imgr img-angle-double-right"></i>Legality</a></li>
                             <li><a href="<?php echo f_path ?>terms_condition/index.php" class="fs-md-15 fs-14 mb-1 d-block"><i class="me-1 imgr img-angle-double-right"></i>Terms &amp; Conditions</a></li>
                         </ul>
                     </div>

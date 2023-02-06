@@ -29,48 +29,64 @@
         <div class="container-fluid py5">
             <div class="container">
                 <div class="row inner_section">
-                    <div class="col-12 heading text-center mb-5"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">About Us</span></div>
-                    <div class="col-lg-4 col-md-6 mb-lg-0 mb-4">
+                    <div class="col-12 heading text-center mb-xl-5"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">About Us</span></div>
+                    <div class="col-12 px-0 row mx-0 g-xl-0 g-4">
+                    <div class="col-xl-3 col-md-6">
                         <div class="card p-0 border-0 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
                                 <a href="<?php echo f_path ?>about-us/about-us.php">
                                     <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                         <div class="content d-flex align-items-center justify-content-center rounded-circle p-3">
-                                            <img src="<?php echo f_path ?>assets/img/index/mission.svg" alt="Our Mission" class="w-100 h-100">
+                                            <img src="<?php echo f_path ?>assets/img/index/mission.svg" alt="Batters/Runs" class="w-100 h-100">
                                         </div>
                                     </div>
                                 </a>
-                                <div class="fw-bold fs-20 text-dark text-center my-3">Our Mission</div>
+                                <div class="fw-bold fs-20 text-dark text-center my-3">Batters/Runs</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-lg-0 mb-4 mid_img position-relative">
+                    <div class="col-xl-3 col-md-6 midimg position-relative">
                         <div class="card  p-0 border-0 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
                                 <a href="<?php echo f_path ?>about-us/about-us.php">
                                     <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                         <div class="content d-flex align-items-center justify-content-center rounded-circle p-3">
-                                            <img src="<?php echo f_path ?>assets/img/index/plan.svg" alt="Our Plan" class="w-100 h-100">
+                                            <img src="<?php echo f_path ?>assets/img/index/plan.svg" alt="Over/Runs" class="w-100 h-100">
                                         </div>
                                     </div>
                                 </a>
-                                <div class="fw-bold fs-20 text-dark text-center my-3">Our Plan</div>
+                                <div class="fw-bold fs-20 text-dark text-center my-3">Over/Runs</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-xl-3 col-md-6">
                         <div class="card p-0 border-0 d-flex align-items-center justify-content-center">
                             <div class="card-body p-0">
                                 <a href="<?php echo f_path ?>about-us/about-us.php">
                                     <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
                                         <div class="content d-flex align-items-center justify-content-center rounded-circle">
-                                            <img src="<?php echo f_path ?>assets/img/index/vision.svg" alt="Our Vision" class="w-100 h-100">
+                                            <img src="<?php echo f_path ?>assets/img/index/vision.svg" alt="Top Wicket Taker" class="w-100 h-100">
                                         </div>
                                     </div>
                                 </a>
-                                <div class="fw-bold fs-20 text-dark text-center my-3">Our Vision</div>
+                                <div class="fw-bold fs-20 text-dark text-center my-3">Top Wicket Taker</div>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="card p-0 border-0 d-flex align-items-center justify-content-center">
+                            <div class="card-body p-0">
+                                <a href="<?php echo f_path ?>about-us/about-us.php">
+                                    <div class="content_wrapper d-flex align-items-center justify-content-center rounded-circle">
+                                        <div class="content d-flex align-items-center justify-content-center rounded-circle overflow-hidden">
+                                            <img src="<?php echo f_path ?>assets/img/index/man_of_the_match.svg" alt="Man of the Match " class="w-100 h-100">
+                                        </div>
+                                    </div>
+                                </a>
+                                <div class="fw-bold fs-20 text-dark text-center my-3">Man of the Match </div>
+                            </div>
+                        </div>
+                    </div>
                     </div>
                 </div>
             </div>
@@ -83,18 +99,24 @@
         <div class="container-fluid py-5 inner_section">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-12 heading text-center mb-5 d-lg-none d-block"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
-                    <div class="col-lg-6 left_side mb-lg-0 mb-4">
-                        <div class="hotoplay_img d-flex justify-content-lg-start justify-content-center"><img src="<?php echo f_path ?>assets/img/index/howtoplay.svg" alt="" class="w-lg-80 w-90"></div>
+                    <div class="col-12 heading textcenter mb-5"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How to Play <span class="inner_span">on Shotbull ?</span></span></div>
+                    <div class="col-xl-6 left_side mb-xl-0 mb-4">
+                        <div class="hotoplay_img d-flex justify-content-lg-start justify-content-center">
+                            <video width="100%" controls>
+                            <source src="<?php echo f_path ?>assets/img/video/how_to_play.mp4" type="video/mp4">
+                            <source src="<?php echo f_path ?>assets/img/video/how_to_play.ogg" type="video/ogg">
+                            Your browser does not support HTML video.
+                            </video>
+                        </div>
                     </div>
-                    <div class="col-lg-6 right_side row mx-0">
-                        <div class="col-12 heading text-center mb-5 d-lg-block d-none"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div>
+                    <div class="col-xl-6 right_side row mx-0">
+                        <!-- <div class="col-12 heading text-center mb-5 d-lg-block d-none"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div> -->
                         <div class="col-sm-6 mb-4">
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-cricket fs-30 pe-1 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Select a Match</div>
-                                    <div class="fs-16 text-dark match_contant">Select any match which you want to Play from Upcoming Sections.</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Step 1 :-</div>
+                                    <div class="fs-16 text-dark match_contant">In this step there shall be total of 8 Batsman.</div>
                                 </div>
                             </div>
                         </div>
@@ -102,8 +124,8 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-gift fs-30 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Choose a Contest</div>
-                                    <div class="fs-16 text-dark match_contant">Create your Own Wining Team by use your excellent skills of sports.</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Step 2 :-</div>
+                                    <div class="fs-16 text-dark match_contant">In this step the user has to predict the no of runs that shall be scored after specific overs by selecting the right color between Red and Black. Selecting the right color will get you 50 points.</div>
                                 </div>
                             </div>
                         </div>
@@ -111,8 +133,8 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-users fs-30 pe-1 text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Create Your Dream Team</div>
-                                    <div class="fs-16 text-dark match_contant">Join any of the given contest which you want.</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Step 3 :-</div>
+                                    <div class="fs-16 text-dark match_contant">In this step user has to select total bowlers one from each team and predict the top wicket takers of each teams. Each bowler shall get you different points as mentioned in the game.</div>
                                 </div>
                             </div>
                         </div>
@@ -120,8 +142,8 @@
                             <div class="card h-100">
                                 <div class="card-body">
                                     <div class="icon h-60px w-60px rounded-circle bg-light d-flex justify-content-center align-items-center"><i class="imgs img-trophy fs-30  text-theme1"></i></div>
-                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Win Real Cash</div>
-                                    <div class="fs-16 text-dark match_contant">Get your Winning Amount Instantly in your PAYTM or Bank Accounts.</div>
+                                    <div class="fw-bold fs-20 text-dark match_heading mt-sm-4 mt-3 mb-2">Step 4 :-</div>
+                                    <div class="fs-16 text-dark match_contant">In this step the user has to select total four players two from each team and predict the player to become the Man of the Match. Each player shall get you different points as mentioned in the game.</div>
                                 </div>
                             </div>
                         </div>

@@ -8,11 +8,11 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-12">
-                        <div class="heading text-center mb-3 d-block"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-white inner_contant inner_heading">How To Play</span></div>
+                        <div class="heading text-center mb-3 d-block"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-white inner_contant inner_heading">How to Play on Shotbull ?</span></div>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb d-flex  justify-content-center">
                                 <li class="breadcrumb-item"><a href="<?php echo f_path ?>" class="text-white fw-bold">Home</a></li>
-                                <li class="breadcrumb-item active fw-bold" aria-current="page">How To Play</li>
+                                <li class="breadcrumb-item active fw-bold" aria-current="page">How to Play on Shotbull ?</li>
                             </ol>
                         </nav>
                     </div>
@@ -25,15 +25,36 @@
     <div class="container-fluid py-md-5">
         <div class="container ">
             <div class="row">
-                <div class="col-lg-3 col-md-4 col-12 mb-5 order-md-2 order-1">
+                <div class="">
+                    <p><b>Shotbull</b> is a unique Cricket App that has introduced India’s first Cricket Table where you can play and earn real cash.</p>
+                    <p>In <b>Shotbull</b> App you have to first select a cricket match and select any contest and follow four simple steps to make you cricket table.</p>
+                    <!-- <p class="color-change"><strong >Follow these 5 easy steps to get started</strong></p> -->
+                    <ul class="listNumb">
+                        <li>
+                            <p><strong>Step 1 (Batters Runs ) :- </strong>: <br>In this step there shall be total of 8 Batsman.</p>
+                        </li>
+                        <li>
+                            <p><strong>Step 2 : - </strong>: <br>In this step the user has to predict the no of runs that shall be scored after specific overs by selecting the right color between Red and Black. Selecting the right color will get you 50 points.</p>
+                        </li>
+                        <li>
+                            <p><strong>Step 3 : - </strong>: <br>In this step user has to select total bowlers one from each team and predict the top wicket takers of each teams. Each bowler shall get you different points as mentioned in the game.</p>
+                        </li>
+                        <li>
+                            <p><strong>Step 4 : - </strong>: <br>In this step the user has to select total four players two from each team and predict the player to become the Man of the Match. Each player shall get you different points as mentioned in the game.</p>
+                        </li>
+                    </ul>
+                    <p>After completing all the four steps all your predictions shall be shown on a Fantasy Cricket Table. Once the match is completed total points shall be shown for each Cricket Table. </p>
+                    <p>So what are you waiting for ? Make your Cricket Table on <b>Shotbull</b> App by downloading it from <a href="javascript:;" class="text-theme1"><b>www.shotbull.com</b></a></p>
+                </div>
+                <!-- <div class="col-lg-3 col-md-4 col-12 mb-5 order-md-2 order-1">
                     <div class="nav flex-md-column flex-row shadow rounded p-md-2 p-3 gap-2 nav-pills " id="v-pills-tab" role="tablist" aria-orientation="vertical">
                         <a class="nav-link fw-bold text-dark px-3 cr_btn active  my-1 " id="v-pills-home-tab" data-bs-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true"><span>Introduction</span></a>
                         <a class="nav-link fw-bold text-dark px-3 cr_btn  my-1" id="v-pills-profile-tab" data-bs-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false"><span>Create your Team</span></a>
                         <a class="nav-link fw-bold text-dark px-3 cr_btn  my-1" id="v-pills-messages-tab" data-bs-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false"><span>Managing Your Team</span></a>
                         <a class="nav-link fw-bold text-dark px-3 cr_btn  my-1" id="v-pills-settings-tab" data-bs-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false"><span>Account Balance</span></a>
                     </div>
-                </div>
-                <div class="col-lg-9 col-md-8 col-12 order-md-1 order-2">
+                </div> -->
+                <!-- <div class="col-lg-9 col-md-8 col-12 order-md-1 order-2">
                     <div class="tab-content" id="v-pills-tabContent">
                         <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                             <p><b>Shotbull</b> is India’s biggest Sports Game with an exponentially growing user base of over 2 crore sports fans.</p>
@@ -61,7 +82,6 @@
                             <p class="strong fw-bold">Step 1: Select a Match</p>
                             <p>Select any upcoming match from the list of ongoing and upcoming cricket series and click on the ‘<strong>Create Team</strong>’ button.</p>
                             <p>Create your <b>Shotbull</b> team by picking 11 players as per the following combinations (C1,C2,C3...) within a budget of 100 credits.</p>
-                            <!--Combination table start-->
                             <div class="point_table">
                                 <table width="100%" class="table table-bordered">
                                     <thead>
@@ -95,7 +115,6 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <!--Combination table end-->
                             <p class="fw-bold">Step 2: Create your Team</p>
                             <p>Select players for your <strong><b>Shotbull</b> team</strong> from all 4 of the categories mentioned below:</p>
                             <ul class="listBull">
@@ -160,7 +179,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
