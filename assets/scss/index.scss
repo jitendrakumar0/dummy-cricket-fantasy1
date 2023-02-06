@@ -37,6 +37,11 @@
   // background-attachment: fixed;
   background-size: cover;
   & .inner_section {
+    & .box-container {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
     & .right_side {
       & .card {
         border: 1px solid $theme2;
@@ -73,6 +78,58 @@
         }
       }
     }
+  }
+}
+
+
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+
+  .circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    background-color: $dark;
+    margin: auto;
+    transform: scale(1, 1);
+
+    &.pulse {
+      animation-timing-function: ease;
+      animation: pulse 2s infinite;
+      background-color: lighten($dark, 25%);
+    }
+  }
+
+  svg {
+    stroke-linejoin: round;
+    stroke-width: 5;
+    transition: all 0.3s;
+
+    &:hover {
+      cursor: pointer;
+      fill: darken($dark, 17%);
+      stroke: darken($dark, 17%);
+      transform: scale(1.2, 1.2);
+    }
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1, 1);
+  }
+  25% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.2, 1.2);
+  }
+  100% {
+    transform: scale(1, 1);
   }
 }
 

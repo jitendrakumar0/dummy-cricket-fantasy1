@@ -21,6 +21,8 @@
 <?php } ?>
 
 <script src="<?php echo f_path ?>assets/js/app.min.js"></script>
+<script src="<?php echo f_path ?>assets/libs/glightBox/js/glightbox.min.js"></script>
+
 
 
 </body>

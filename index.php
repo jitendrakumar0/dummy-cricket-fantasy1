@@ -101,13 +101,26 @@
                 <div class="row align-items-center">
                     <div class="col-12 heading textcenter mb-5"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How to Play <span class="inner_span">on Shotbull ?</span></span></div>
                     <div class="col-xl-6 left_side mb-xl-0 mb-4">
-                        <div class="hotoplay_img d-flex justify-content-lg-start justify-content-center">
+                        <div class="hotoplay_img d-flex justify-content-xl-start justify-content-center position-relative">
+                        <img src="<?php echo f_path ?>assets/img/index/howtoplay.svg" alt="image" class=" w-90">
+                            <ul class="box-container three-cols list-unstyled position-absolute m-0">
+                                <li class="box show wrapper w-md-120px h-md-120px w-sm-100px h-sm-100px w-80px h-80px" style="transition-delay: 0s;">
+                                    <div class="inner pulse circle w-md-90px h-md-90px w-sm-75px h-sm-75px w-60px h-60px">
+                                        <a href="<?php echo f_path ?>assets/img/video/how_to_play.mp4" class="glightbox4 d-flex align-items-center justify-content-center circle ">
+                                            <i class="imgs img-play fs--md-30 fs-sm-28 fs-25 svg text-white"></i>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    
+                        <!-- <div class="hotoplay_img d-flex justify-content-lg-start justify-content-center">
                             <video width="100%" controls>
                             <source src="<?php echo f_path ?>assets/img/video/how_to_play.mp4" type="video/mp4">
                             <source src="<?php echo f_path ?>assets/img/video/how_to_play.ogg" type="video/ogg">
                             Your browser does not support HTML video.
                             </video>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-xl-6 right_side row mx-0">
                         <!-- <div class="col-12 heading text-center mb-5 d-lg-block d-none"><span class="fs-xl-50 fs-md-40 fs-sm-30  fs-25 fw-bold text-dark inner_contant">How does <span class="inner_span">it work?</span></span></div> -->
@@ -270,3 +283,8 @@
 
 <?php include 'layouts/footer.php' ?>
 <?php include 'layouts/footer-link.php' ?>
+<script>
+        var lightboxInlineIframe = GLightbox({
+                selector: '.glightbox4'
+            });
+</script>

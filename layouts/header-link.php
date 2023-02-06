@@ -54,6 +54,8 @@
 
     <!-- custom styles (optional) -->
     <link rel="stylesheet" href="<?php echo f_path ?>assets/dist/css/style.min.css" />
+        <!-- Glightbox -->
+        <link rel="stylesheet" href="<?php echo f_path ?>assets/libs/glightBox/css/glightbox.min.css" />
 
 </head>
 
